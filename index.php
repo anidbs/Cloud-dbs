@@ -9,7 +9,8 @@
   </br>
  <p>Click on the link:<ol>
  <li><a href="http://www.domstechblog.com/should-you-set-up-your-office-in-the-cloud"> Cloud image </a> </li>
- <li> <a href="https://www.google.com/search?q=cloud+image&client=ubuntu&hs=Jvv&channel=fs&tbm=isch&source=iu&ictx=1&fir=xljds-wRy1U9rM%253A%252Cc1xZDe0u4J4m4M%252C_&usg=__knLZOYT6qKuitdaZap5ngyQr_3k%3D&sa=X&ved=0ahUKEwia2JLf0ofbAhVBLFAKHe4ICwcQ9QEIMDAA#imgrc=CKtPRdStKz-5fM:"> CLoud facilities</li> </a> 
+ <li> <a href="http://www.itatlantis.com/cloud-and-social-media"> Cloud facilities</li> </a> 
+ <li> <a href="https://www.ncode.in/cloud%20service.html">Why Cloud?</li> </a>
  </ol></p>
  </body>
 </html>
