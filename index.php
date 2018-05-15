@@ -8,6 +8,7 @@
   </h2>
   </br>
  <p>Click on the link:<ul>
- <li><a href="http://www.domstechblog.com/should-you-set-up-your-office-in-the-cloud"> Cloud image </a> </li></ul></p>
+ <li><a href="http://www.domstechblog.com/should-you-set-up-your-office-in-the-cloud"> Cloud image </a> </li>
+ <li> <a> CLoud facilities</li> </a> </ul></p>
  </body>
 </html>
